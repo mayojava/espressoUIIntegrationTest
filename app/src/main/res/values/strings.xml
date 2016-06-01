@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EspressoUItestSample</string>
+
+    <string name="login_button_text">Login</string>
+    <string name="sign_up_button_text">Sign Up</string>
+
+    <!-- edit text hints -->
+    <string name="hint_first_name">firstname</string>
+    <string name="hint_last_name">lastname</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+
+    <string name="text_sign_up_successful">Sign Up Successful</string>
+    <string name="text_login_successful">Login Successful</string>
+    <string name="progress_bar_message_signing_up">Signing Up</string>
+
+    <!-- tool bar text -->
+    <string name="tool_bar_title_login">Login</string>
+    <string name="tool_bar_title_sign_up">Sign Up</string>
+</resources>
