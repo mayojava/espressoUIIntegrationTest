@@ -21,7 +21,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withParent;
 import static org.hamcrest.core.AllOf.allOf;
 
 /**
- * Test for the Main Actvity screen
+ * Test for the MainActivity screen
  */
 
 @RunWith(AndroidJUnit4.class)

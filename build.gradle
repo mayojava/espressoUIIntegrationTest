@@ -21,6 +21,7 @@ allprojects {
 ext {
     espressoVersion = '2.2.2'
     runnerVersion = '0.5'
+    rulesVersion = '0.5'
     supportAnnotationsversion = '23.4.0'
     supportLibraryVersion = '23.4.0'
 }
