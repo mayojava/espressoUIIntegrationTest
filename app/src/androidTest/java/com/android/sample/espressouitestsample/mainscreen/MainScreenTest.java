@@ -42,7 +42,7 @@ public class MainScreenTest {
 
     @Test
     public void clickLoginButton_openLoginScreen() {
-        //click on the login button
+        //locate and click on the login button
         onView(withId(R.id.button_login)).perform(click());
 
         //check that the login screen is displayed
